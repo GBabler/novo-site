@@ -22,5 +22,16 @@
 
  .sociais{
       text-align: center;
+ }
 
+ .imgsociais{
+      width: 50px;
+      height: 50px;
+
+      
+ }
+ .socialposition{
+
+   text-align: center;
+    
  }
